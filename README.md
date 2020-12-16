@@ -22,7 +22,7 @@ OR you can just ```pip install requirements.txt``` file
 python manage.py runserver
 ```
 
-### NOTE: Venv is included too, so you can just activate it via ```venv\Scripts\activate```
+#### NOTE: Venv is included too, so you can just activate it via ```venv\Scripts\activate```
 
 
 
